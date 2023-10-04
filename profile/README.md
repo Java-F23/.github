@@ -4,5 +4,5 @@
   
 </div>
 <div align = "center"> 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citypng.com%2Fphoto%2F26142%2Fhd-java-logo-transparent-background&psig=AOvVaw0bQM1my3Pchzq-5rwIe1Ly&ust=1696533652881000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjjlb-O3YEDFQAAAAAdAAAAABAZ" alt="Java">
+<img src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/14a86d0f-651e-4efd-2d55-65b123378e00/preview" alt="Java">
 </div>
