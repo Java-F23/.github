@@ -4,5 +4,5 @@
   
 </div>
 <div align = "center"> 
-<img src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/14a86d0f-651e-4efd-2d55-65b123378e00/preview" alt="Java">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641883611412/5B_mjTth2.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Java">
 </div>
